@@ -1,10 +1,11 @@
 # MPT_TS
-## Time Series Analysis Report on Interest Rate and Policy Expectations
+## Time Series Analysis on Interest Rate and Policy Expectations
 **Author:** Yijin Zhou
-Applying the ARIMA Model to Analyze MPT Time Series Data.
+
+
 
 ## Model Description
-This project includes three time series analysis models:
+Applying the ARIMA Model to Analyze MPT Time Series Data. This project includes three time series analysis models:
 
 ## Model Description
 
